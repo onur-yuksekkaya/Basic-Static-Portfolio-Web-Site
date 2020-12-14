@@ -133,15 +133,24 @@ header hr {
 /*portfolio*/
 
 #portfolio {
-	height: 900px;
+	background-color: #D2D9EC;
+	height: 950px;
 	padding-top: 10rem;
 	padding-bottom: 10rem;
 	text-align: center;
 }
 
+#portfolio hr {
+	margin-top: 0.1rem;
+    margin-bottom: 2rem;
+    border: .4rem solid #222831;
+    margin-right: 57rem;
+	margin-left: 57rem;
+}
+
 #portfolio h2 {
 	font-size: 4.8rem;
-	color: #2C3E50;
+	color: #222831;
 }
 
 .col {
