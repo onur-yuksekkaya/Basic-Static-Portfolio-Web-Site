@@ -207,7 +207,38 @@ header hr {
 	font-size: 4.2rem;
 }
 
+#about-text {
+	text-align: left;
+}
 
+
+#about-text .left { 
+	float: left;
+	width: 50%;
+	padding-right: 2rem;
+	padding-left: 20rem;
+}
+
+#about-text .right { 
+	float: right;
+	width: 50%;
+	padding-left: 2rem;
+	padding-right: 20rem;
+
+
+}
+
+#about hr {
+	margin-top: 0.1rem;
+    margin-bottom: 2rem;
+    border: .4rem solid #fff;
+    margin-right: 65rem;
+	margin-left: 65rem;
+}
+
+#about-text .text {
+	font-size: 2rem;
+}
 
 
 
